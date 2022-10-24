@@ -31,5 +31,3 @@ class Song
     @@artists.tally
   end
 end
-
-genres.e
